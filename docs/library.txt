@@ -1,0 +1,5 @@
+The library is open from 8:00 to 18:00, Monday to Friday. It is closed on Saturdays, Sundays and public holidays.
+
+Students can borrow up to 5 books for 14 days. Each extension adds 7 days, with a maximum of 2 extensions, so a book can be kept for a maximum of 28 days in total.
+
+Late books cost 0.50 euro per day.
